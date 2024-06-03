@@ -5,10 +5,7 @@ Student
 Admin
 
 There are :-
-Admin Dashboard
-Admin can add/update/ delete category
-Admin can add/update/ delete author
-Admin can add/update/ delete books
+Admin Dashboard, Admin can add/update/ delete category, can add/update/ delete author, can add/update/ delete books
 Admin can issue a new book to student and also update the details when student return book
 Admin can search student by using their student ID
 Admin can also view student details
