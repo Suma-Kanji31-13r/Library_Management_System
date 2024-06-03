@@ -1,4 +1,4 @@
-# Online-Library-Management-System
+# Library_Management_System
 Online library Management System divided in two modules–
 
 Student
